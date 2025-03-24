@@ -5,7 +5,7 @@ import keyboard
 import webbrowser
 
 #  Gemini API
-GEMINI_API_KEY = "AIzaSyCpIfUjFvJgJjz_PtTrpyF7ppEA60HU32Q"
+GEMINI_API_KEY = ""
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Amara is a beast 
